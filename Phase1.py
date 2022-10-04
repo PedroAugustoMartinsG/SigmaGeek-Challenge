@@ -4,6 +4,7 @@ from math import sqrt
 To ensure pi decimals are correct, I downloaded one (1) million digital pi from www.angio.net/pi/digits.html instead of generating them on my own,
 and I found the first palindromic prime of nine (9) digits, which is 318272813.
 The first occurrence of 318272813 was discovered in pi's decimal position 129079 (to 129087).
+The complexity of this solution is O(n).
 """
 
 
